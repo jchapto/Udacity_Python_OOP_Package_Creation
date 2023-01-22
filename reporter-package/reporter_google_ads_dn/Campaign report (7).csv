@@ -1,0 +1,16 @@
+Campaign report
+"December 25, 2022 - January 21, 2023"
+Campaign status,Campaign,Budget name,Currency code,Budget,Budget type,Status,Status reasons,Cost,Conversions,Cost / conv.
+Enabled,Pilar - Tratamientos #2, --,ARS,3700.00,Daily,Eligible,unknown,70260.63,104.98,669.26
+Enabled,RO_Search_Brand, --,ARS,3200.00,Daily,Eligible,unknown,13329.69,29.01,459.43
+Enabled,Nordelta - Tratamientos #2, --,ARS,4800.00,Daily,Eligible (Limited),limited by budget; unknown,113193.40,105.50,1072.97
+Enabled,Palermo - Tratamientos #2, --,ARS,4400.00,Daily,Eligible (Limited),limited by budget; unknown,118074.20,264.46,446.47
+Enabled,Recoleta - Tratamientos #2, --,ARS,4900.00,Daily,Eligible (Limited),limited by budget; unknown,124801.52,206.98,602.97
+Enabled,AMBA - Tratamientos (excluye localidades de otras campañas), --,ARS,3500.00,Daily,Eligible (Limited),limited by budget; some ads disapproved,72630.15,397.01,182.94
+Enabled,Martinez2 - Tratamientos #2, --,ARS,2400.00,Daily,Eligible (Limited),limited by budget; unknown,61047.63,126.95,480.90
+Total: Campaigns,,,ARS,,,,,573337.23,"1,234.88",464.29
+Total: Account,,,ARS,,,,,596674.97,"1,408.55",423.61
+Total: Search,,,ARS,,,,,595307.59,"1,322.88",450.01
+Total: Display,,,ARS,,,,,0.00,0.00,0.00
+Total: Video,,,ARS,,,,,0.00,0.00,0.00
+Total: Performance Max,,,ARS,,,,,1367.38,85.67,15.96
